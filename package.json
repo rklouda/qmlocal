@@ -35,7 +35,7 @@
     "load-grunt-tasks": "^3.3.0",
     "time-grunt": "^1.2.2"
   },
-    "scripts": {"start":"index.html"},
+    "scripts": {},
   "engines": {
     "node": ">=4.4.5"
   },
